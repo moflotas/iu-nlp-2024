@@ -1,0 +1,2 @@
+# ignore labs at least for now
+lab[0-9][0-9]_class.ipynb
